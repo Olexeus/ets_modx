@@ -1,0 +1,1461 @@
+@import "vars"
+@import "fonts"
+@import "libs"
+
+
+::placeholder
+	color: #666
+
+::selection
+	background-color: $text-accent
+	color: #fff
+
+*
+	outline: none
+
+body
+	font-size: 16px
+	min-width: 320px
+	position: relative
+	line-height: 1.65
+	font-family: $default-font
+	overflow-x: hidden
+	color: $text
+	input, textarea
+		border: #666 1px solid
+		outline: none
+		&:focus:required:invalid
+			border-color: red
+		&:required:valid
+			border-color: green
+
+.img-responsive
+	display: block
+	max-width: 100%
+	height: auto
+	&.img-width
+		width: 100%
+
+.text-center
+	text-align: center
+
+b, strong
+	font-weight: bold
+
+.loader
+	background: none repeat scroll 0 0 #ffffff
+	bottom: 0
+	height: 100%
+	left: 0
+	position: fixed
+	right: 0
+	top: 0
+	width: 100%
+	z-index: 9999
+	.loader_inner
+		// background-image: url("../img/preload.gif")
+		// background-size: cover
+		// background-repeat: no-repeat
+		// background-posirion: center center
+		height: 60px
+		width: 60px
+		margin-top: -30px
+		margin-left: -30px
+		left: 50%
+		top: 50%
+		position: absolute
+
+$loader-ring-size: 100px
+$loader-ring-border-size: 3px
+
+.loader-ring 
+	position: absolute
+	top: 50%
+	left: 50%
+	margin: $loader-ring-size/-2 0 0 $loader-ring-size/-2
+	width: $loader-ring-size
+	height: $loader-ring-size
+
+.loader-ring-light 
+	width: $loader-ring-size
+	height: $loader-ring-size
+	border-radius: ($loader-ring-size)
+	box-shadow: (0 $loader-ring-border-size 0 lighten($main-2, 10%) inset)
+	animation: rotate-360 2s linear infinite
+
+.loader-ring-track 
+	position: absolute
+	top: 0
+	left: 0
+	width: $loader-ring-size
+	height: $loader-ring-size
+	border-radius: ($loader-ring-size)
+	box-shadow: (0 0 10px $loader-ring-border-size rgba($black, .3) inset)
+
+@keyframes rotate-360 
+	0%
+		transform: rotate(0deg)
+	100%
+		transform: rotate(360deg)
+
+
+// header
+// 	height: calc(100vh - 100px)
+// 	+media-breakpoint-down(md)
+// 		height: calc(100vh - 60px)
+
+.mnu 
+	height: 100px
+	position: fixed
+	top: 0	
+	right: 0
+	left: 0
+	z-index: 1030
+	display: flex
+	align-items: center
+	background-color: $main
+	&-mob
+		display: none
+	&-logo
+		height: 100px
+		width: 100%
+		display: flex
+		align-items: center
+		img
+			height: 70px
+	&-line
+		width: 100%
+		height: 100px
+		margin: 0
+		padding: 0
+		display: flex //!important
+		align-items: center
+		justify-content: flex-end
+	&-btn
+		$w: 50px
+		$h: 5px
+		display: none
+		height: 100%
+		float: right
+		align-items: center
+		+media-breakpoint-up(lg)
+			display: none
+		.sandwich 
+			width: $w
+			height: $w
+			z-index: 200
+			.sw-topper
+				position: relative
+				top: $h*1.5
+				width: $w
+				height: $h
+				background: $text
+				border: none
+				border-radius: 4px 4px 4px 4px
+				transition: transform 0.5s, top 0.2s
+			.sw-bottom
+				position: relative
+				width: $w
+				height: $h
+				top: $h*3.5
+				background: $text
+				border: none
+				border-radius: 4px 4px 4px 4px
+				transition: transform 0.5s, top 0.2s
+				transition-delay: 0.2s, 0s
+			.sw-footer
+				position: relative
+				width: $w
+				height: $h
+				top: $h*5.5
+				background: $text
+				border: none
+				border-radius: 4px 4px 4px 4px
+				transition: all 0.5s
+				transition-delay: 0.1s
+		.sandwich.active 
+			.sw-topper
+				top: $h*4.5
+				transform: rotate(140deg)
+			.sw-bottom
+				top: $h*3.5
+				transform: rotate(-140deg)
+			.sw-footer
+				opacity: 0
+				top: 0
+				transform: rotate(180deg)
+	&-item
+		list-style-type: none
+		display: inline-block //!important
+		a
+			padding: 11px
+			text-decoration: none
+			text-transform: capitalize
+			color: $text
+			font-family: "helvetica-7"
+			font-weight: bold
+			font-size: 18px	
+			transition: 0.3s ease
+			&:hover
+				color: $text-accent
+			&.active
+				transition: 0.3s ease
+				color: $text-accent
+
++media-breakpoint-down(md)
+	.mnu
+		height: 60px
+		&-mob
+			content: ""
+			position: absolute
+			width: 100vw
+			height: 200vh
+			background-color: $main
+		&-line
+			display: none //!important
+			width: 100%
+			height: 100vh
+			position: absolute
+			top: 15vh
+			left: 0
+			align-items: center
+			text-align: center
+		&-logo
+			height: 60px
+			width: auto
+			float: left
+			img
+				height: 50px
+		&-btn
+			display: flex
+		&-item
+			display: none //!important
+			a
+				padding: 11px
+				color: $text
+				font-size: 24px	
+				&:hover
+					color: $text-accent
+		// &-mob.active
+		// 	display: block
+		// &-line.active
+		// 	display: block !important
+		// &-item.active
+		// 	display: block !important
+
+.owl-one
+	height: calc(100vh - 100px)
+
+.slider
+	height: calc(100vh - 100px)
+	margin-top: 100px
+	.owl-item
+		display: table
+		height: calc(100vh - 100px)
+		box-sizing: border-box
+		&.active .item
+			&-title
+				bottom: 0
+				opacity: 1
+			&-desc
+				top: 0
+				opacity: 1
+			.btn-wrap
+				top: 0
+				opacity: 1
+	.item
+		text-align: center
+		&-content
+			height: calc(100vh - 100px)
+			width: 100vw
+			background-size: cover !important
+			vertical-align: middle
+			text-align: -webkit-center
+			text-align: -moz-center
+			display: table-cell
+		&-title
+			margin-bottom: 10px
+			font-size: 64px
+			font-family: "helvetica-7"
+			font-weight: bold
+			color: $main
+			position: relative
+			bottom: 50px
+			opacity: 0
+			transition: all 1s ease
+		&-desc
+			width: 50%
+			margin: 0 auto 60px
+			text-align: center
+			font-size: 20px
+			font-family: "helvetica-5"
+			color: $main
+			position: relative
+			top: 50px
+			opacity: 0
+			transition: all 1s ease
+			transition-delay: .15s
+	.btn-wrap
+		position: relative
+		top: 50px
+		opacity: 0
+		transition: all 1s ease
+		transition-delay: .15s
+		.btn
+			height: 55px
+			width: 270px
+			display: inline-block
+			line-height: 56px
+			text-align: center
+			text-decoration: none
+			text-transform: uppercase
+			font-size: 14px
+			font-family: "helvetica-7"
+			font-weight: bold
+			letter-spacing: 1.1px
+			word-spacing: 3px
+			border-radius: 3px
+			background-color: $text-accent
+			color: $main
+			transition: 0.3s ease
+			&:hover
+				background-color: $main
+				color: $black
+
+
+.arr-down
+	top: -110px
+	a span 
+		border-left: 1px solid 
+		border-bottom: 1px solid 
+		border-color: $main
+
+.arr-up
+	top: -80px
+	a span
+		border-right: 1px solid 
+		border-top: 1px solid 
+		border-color: $black
+
+.arr-vertical
+	position: relative
+	z-index: 1000
+	left: 50%
+	display: inline-block
+	transition: opacity .3s
+	&:hover
+		opacity: .5
+	a
+		padding-top: 80px
+		span
+			position: absolute
+			top: 0
+			left: 50%
+			width: 32px
+			height: 32px
+			margin-left: -16px
+			transform: rotate(-45deg)
+			animation: sdb07 2s infinite
+			opacity: 0
+			box-sizing: border-box
+			&:nth-of-type(1)
+				animation-delay: 0s
+			&:nth-of-type(2)
+				top: 16px
+				animation-delay: .15s
+			&:nth-of-type(3)
+				top: 32px
+				animation-delay: .3s
+	
+.owl-dots 
+	display: flex
+	justify-content: center
+	align-items: center
+	position: relative
+	top: -190px
+	.owl-dot
+		width: 15px
+		height: 15px
+		margin: 0 5px
+		border: solid 1px $main !important
+		border-radius: 100%
+		outline: none
+	.active		
+		background-color: $main !important
+
+.owl-nav
+	display: flex
+	justify-content: space-between
+	align-items: center
+	position: relative
+	top: calc(50px - 50vh)
+	color: $main
+	img
+		height: 14px
+	.owl-prev
+		height: 60px
+		outline: none
+		margin: 0 65px
+	.owl-next
+		height: 60px
+		outline: none
+		margin: 0 65px
+
+@-webkit-keyframes sdb07
+	0%
+		opacity: 0
+	50%
+		opacity: 1
+	100%
+		opacity: 0
+
+
+@keyframes sdb07
+	0%
+		opacity: 0
+	50%
+		opacity: 1
+	100%
+		opacity: 0
+
++media-breakpoint-down(lg)
+	.owl-one
+		height: calc(100vh - 100px)
+	.slider
+		height: calc(100vh - 100px)
+		margin-top: 100px
+		.owl-item
+			height: calc(100vh - 100px)
+		.item
+			text-align: center
+			&-content
+				height: calc(100vh - 100px)
+				width: 100vw
+			&-title
+				margin-bottom: 10px
+				font-size: 48px
+			&-desc
+				width: 70%
+				margin: 0 auto 35px
+				font-size: 18px
+		.btn-wrap
+			height: 44px
+			width: 200px
+			.btn
+				height: 44px
+				width: 200px
+				line-height: 44px
+				font-size: 14px
+				letter-spacing: 0.8px
+				word-spacing: 2px
+		.arr-down
+			display: none
+	.owl-dots 
+		top: -110px
+	.owl-nav
+		display: none
+
++media-breakpoint-down(md)
+	.owl-one
+		height: calc(100vh - 60px)
+	.slider
+		height: calc(100vh - 60px)
+		margin-top: 60px
+		.owl-item
+			height: calc(100vh - 60px)
+		.item
+			text-align: center
+			&-content
+				height: calc(100vh - 60px)
+				width: 100vw
+			&-title
+				margin-bottom: 10px
+				font-size: 48px
+			&-desc
+				width: 70%
+				margin: 0 auto 35px
+				font-size: 18px
+		.btn-wrap
+			height: 44px
+			width: 200px
+			.btn
+				height: 44px
+				width: 200px
+				line-height: 44px
+				font-size: 14px
+				letter-spacing: 0.8px
+				word-spacing: 2px
+
++media-breakpoint-down(sm)
+	.owl-one
+		height: calc(100vh - 60px)
+	.slider
+		height: calc(100vh - 60px)
+		margin-top: 60px
+		.owl-item
+			height: calc(100vh - 60px)
+		.item
+			text-align: center
+			&-content
+				height: calc(100vh - 60px)
+				width: 100vw
+			&-title
+				margin-bottom: 10px
+				font-size: 48px
+			&-desc
+				width: 70%
+				margin: 0 auto 35px
+				font-size: 18px
+		.btn-wrap
+			height: 44px
+			width: 200px
+			.btn
+				height: 44px
+				width: 200px
+				line-height: 44px
+				font-size: 14px
+				letter-spacing: 0.8px
+				word-spacing: 2px
+	.arr-down
+		display: none
+	.owl-dots 
+		top: -110px
+	.owl-nav
+		display: none
+
++media-breakpoint-down(xs)
+	.owl-one
+		height: calc(100vh - 60px)
+	.slider
+		height: calc(100vh - 60px)
+		margin-top: 60px
+		.owl-item
+			height: calc(100vh - 60px)
+		.item
+			text-align: center
+			&-content
+				height: calc(100vh - 60px)
+				width: 100vw
+			&-title
+				margin-bottom: 10px
+				font-size: 40px
+			&-desc
+				width: 90%
+				margin: 0 auto 25px
+				font-size: 16px
+		.btn-wrap
+			height: 40px
+			width: 170px
+			.btn
+				height: 40px
+				width: 170px
+				line-height: 40px
+				font-size: 12px
+				letter-spacing: 0.8px
+				word-spacing: 2px
+	.arr-down
+		display: none
+	.owl-dots 
+		top: -110px
+	.owl-nav
+		display: none
+
+
+/************************* About us section *************************/
+hr 
+	display: block
+	position: relative
+	padding: 0
+	margin: 10px auto
+	height: 0
+	width: 100px
+	max-height: 0
+	font-size: 1px
+	line-height: 0
+	clear: both
+	border: none
+	border-top: 3px solid $text-accent
+	border-bottom: none
+
+.title
+	font-size: 40px
+	font-family: "helvetica-7"
+	line-height: 1.1
+	text-align: center
+
+.about-us
+	height: 620px
+	padding-top: 100px
+	background-image: url('../img/about-us-bg.png')
+	background-repeat: no-repeat
+	background-attachment: fixed
+	background-position: center
+	&-title
+		margin-bottom: 35px
+	&-text
+		margin-top: 25px
+		font-size: 22px
+		font-family: "helvetica-4"
+		color: $text-minor
+		text-align: center
+	.arr-down
+		top: 40px
+		a span
+			border-left: 1px solid $text
+			border-bottom: 1px solid $text
+
++media-breakpoint-down(sm)
+	.title
+		font-size: 28px
+		font-family: "helvetica-7"
+		line-height: 1.1
+		text-align: center
+	.about-us
+		height: auto
+		padding-top: 80px
+		padding-bottom: 40px
+		&-title
+			margin-bottom: 15px
+		&-text
+			margin-top: 5px
+			font-size: 16px
+
+.about-us-2
+	height: 720px
+	&-container
+		width: 650px
+		height: 650px
+		margin-top: 35px
+		padding: 50px
+		// border: solid 1px $main
+		// border-radius: 100%
+		// background-clip: content-box
+		// background-color: $main
+		background: url(../img/about-us-2-circle.svg)
+		background-repeat: no-repeat
+		background-size: 650px 650px
+		background-position: center
+		hr
+			margin-top: 70px
+	&-title
+		margin-top: 25px
+		margin-bottom: 25px
+	&-text
+		font-size: 16px
+		font-family: "helvetica-5"
+		color: $text-minor
+		line-height: 1.625
+		text-align: center
+
++media-breakpoint-down(md)
+	.about-us-2
+		height: 720px
+		width: 100vw
+		overflow: hidden
+		&-wrap
+			width: 100vw
+			display: flex
+			align-items: center
+			justify-content: center
+		&-container
+			width: 650px
+			height: 650px
+			margin-top: 35px
+			padding: 50px
+			// border-radius: 100%
+			// border: solid 1px $main
+			// background-clip: content-box
+			// background-color: $main
+			background: url(../img/about-us-2-circle.svg)
+			background-repeat: no-repeat
+			background-size: 650px 650px
+			background-position: center
+			hr
+				margin-top: 70px
+		&-title
+			font-size: 40px
+			margin-top: 25px
+			margin-bottom: 25px
+		&-text
+			font-size: 16px
+			line-height: 1.625
+
++media-breakpoint-down(xs)
+	.about-us-2
+		height: 720px
+		width: 100%
+		&-wrap
+			width: 100%
+			display: block
+		&-container
+			width: 650px
+			height: 650px
+			margin-top: 35px
+			padding: 30px 20px 25px
+			// border-radius: 100%
+			// border: solid 1px $main
+			// background-clip: content-box
+			// background-color: $main
+			background: url(../img/about-us-2-circle.svg)
+			background-repeat: no-repeat
+			background-size: 650px 650px
+			background-position: center
+			hr
+				margin-top: 80px
+		&-title
+			font-size: 40px
+			margin-top: 25px
+			margin-bottom: 25px
+		&-text
+			font-size: 16px
+			line-height: 1.625
+
+@media (max-width: 370px)
+	.about-us-2
+		&-title
+			font-size: 28px
+			margin-top: 25px
+			margin-bottom: 25px
+		&-text
+			font-size: 14px
+			line-height: 1.625
+
+.approach
+	height: 830px
+	padding: 75px 0 60px
+	position: relative
+	background-color: $main-accent
+	text-align: left
+	hr
+		float: left
+	&-img
+		height: 830px
+		width: 100%
+		position: absolute
+		top: 0
+		&-container
+			position: relative
+			height: 830px
+			width: 50%
+			background-image: url(../img/approach-bg.png)
+			background-size: cover
+			&:before
+				content: ' '
+				position: absolute
+				top: 0
+				left: 0
+				width: 100%
+				height: 100%
+				background-color: $black
+				opacity: 0.5
+	&-content-wrap
+		position: relative
+		margin-left: 40px	
+	&-number-box
+		width: 120px
+		height: 830px
+		position: absolute
+		top: 0
+		right: 50%
+		background-color: $black
+		opacity: 0.25
+	&-title
+		margin-bottom: 10px
+		text-align: left
+	&-list
+		margin-top: 50px
+		padding-left: 0
+		clear: both
+		text-align: left
+		&-item
+			position: relative
+			margin-bottom: 35px
+			list-style-type: none
+			&:before
+				content: ''
+				height: 14px
+				width: 14px
+				margin-top: 2px
+				position: absolute
+				left: -28px
+				background-size: 14px
+				background-image: url("../img/list-style-item.svg")
+				background-repeat: no-repeat
+		&-number
+			position: absolute
+			top: -30px
+			left: -165px
+			width: 100px
+			height: 125px
+			text-align: center
+			font-size: 86px
+			color: $main
+			border-bottom: solid 1px $main
+		&-title
+			margin-bottom: 10px
+			text-align: left
+			text-transform: uppercase
+			font-size: 16px
+			font-family: "helvetica-5"
+			letter-spacing: 1.1px
+			line-height: 1.2
+			position: relative
+		&-desc
+			margin-bottom: 
+			text-align: left
+			font-family: "helvetica-5"
+			font-size: 16px
+			color: $text-minor
+			position: relative
+
++media-breakpoint-down(lg)
+	.approach
+		height: 1470px
+		padding: 0 0 60px
+		position: relative
+		&-wrap
+			width: 100vw
+			max-width: 100vw
+			padding: 0
+			position: relative
+			top: 640px
+		&-row
+			width: 100vw
+			margin: 0
+		&-col
+			padding: 0
+		&-img
+			width: 100%
+			&-container
+				width: 100%
+		&-content-wrap
+			background-color: $main-accent
+			width: calc(100vw - 120px)
+			position: relative	
+			padding: 75px 100px 0
+			margin-left: 0
+			float: right
+		&-number-box
+			top: 0
+			left: 0
+		&-title
+			margin-bottom: 10px
+		&-list
+			&-number
+				top: -30px
+				left: -210px
+
+
++media-breakpoint-down(md)
+	.approach
+		height: 1490px
+		&-wrap
+			top: 660px
+		&-content-wrap
+			padding: 50px 50px 0
+			margin-left: 0
+		&-list
+			&-number
+				left: -160px
+
++media-breakpoint-down(sm)
+	.approach
+		height: 1590px
+		padding: 0 0 60px
+		&-wrap
+			top: 690px
+		&-row
+			width: 100vw
+			margin: 0
+		&-col
+			padding: 0
+		&-img
+			height: 830px
+			width: 100%
+			&-container
+				position: relative
+				height: 830px
+				width: 100%
+		&-content-wrap
+			background-color: $main-accent
+			width: calc(100vw - 120px)
+			position: relative	
+			padding: 50px 50px 0
+			margin-left: 0
+			float: right
+		&-number-box
+			height: 900px
+		&-list
+			&-number
+				top: -30px
+				left: -160px
+
++media-breakpoint-down(xs)
+	.approach
+		height: 1130px
+		padding: 0 0 60px
+		&-wrap
+			top: 230px
+		&-img
+			height: 230px
+			&-container
+				height: 230px
+		&-content-wrap
+			width: 100%
+			padding: 50px 40px 0 50px
+		&-number-box
+			display: none
+		&-list
+			&-number
+				top: -15px
+				left: -50px
+				color: #e1e4e8
+				border-bottom: none
+
+@media (max-width: 400px)
+	.approach
+		height: 1340px
+
+@media (max-width: 320px)
+	.approach
+		height: 1550px
+
+
+
+.solutions
+	padding: 100px 0
+	background-image: url(../img/solutions-bg.png)
+	background-size: cover
+	background-position-y: -50px
+	background-attachment: fixed
+	background-repeat: none
+	&-title
+		margin-bottom: 35px
+	hr 
+		margin-bottom: 35px
+	&-item
+		height: 485px
+		padding: 30px 35px
+		margin-top: 30px
+		position: relative
+		background-color: $main-accent
+		+media-breakpoint-down(sm)
+			box-sizing: content-box
+			height: auto
+		&-item
+			width: 32px
+			height: 32px
+		&-title
+			font-family: "helvetica-7"
+			font-size: 24px
+			line-height: 1.2
+			margin-top: 20px
+			margin-bottom: 20px
+		&-desc
+			margin-bottom: 50px
+			max-height: 230px
+			overflow: hidden
+			line-height: 1.5
+			font-family: "helvetica-5"
+			font-size: 16px
+			color: $text-minor
+			+media-breakpoint-down(sm)
+				max-height: none
+		&-btn
+			height: 30px
+			width: 125px
+			margin: 0
+			position: absolute
+			bottom: 35px
+			&-cont
+				cursor: pointer
+				height: 30px
+				width: 125px
+				display: inline-block
+				line-height: 30px
+				letter-spacing: 0.6px
+				word-spacing: 2px
+				text-align: center
+				text-decoration: none
+				text-transform: uppercase
+				font-size: 12px
+				font-family: "helvetica-7"
+				font-weight: bold
+				background-color: $main-accent
+				border-radius: 3px
+				border: 1px solid $text-accent
+				color: $text-accent !important
+				transition: 0.3s ease
+				&:hover
+					text-decoration: none
+					background-color: $text-accent
+					color: $main-accent !important
+	&-wrap 
+		& :nth-child(3n+3) :nth-child(2)
+			left: calc(-200% - 60px)
+		& :nth-child(3n-1) :nth-child(2)
+			left: calc(-100% - 30px)
+		+media-breakpoint-down(md)
+			& :nth-child(3n+3) :nth-child(2)
+				left: 0
+			& :nth-child(3n-1) :nth-child(2)
+				left: 0
+			& :nth-child(2n) :nth-child(2)
+				left: calc(-100% - 30px)
+		+media-breakpoint-down(sm)
+			& :nth-child(3n+3) :nth-child(2)
+				left: 0
+			& :nth-child(3n-1) :nth-child(2)
+				left: 0
+			& :nth-child(2n) :nth-child(2)
+				left: 0
+	&-expand
+		width: calc(300% + 60px)
+		display: none
+		position: relative
+		text-align: left
+		+media-breakpoint-down(md)
+			width: calc(200% + 30px)
+		+media-breakpoint-down(sm)
+			width: calc(100%)
+		&-title
+			text-align: left
+			margin-top: 50px
+			margin-bottom: 10px
+		&-list
+			list-style-type: none
+			padding: 0
+			&-item
+				margin-bottom: 30px
+				&-title
+					margin: 0 0 10px
+					padding: 0
+					text-align: left
+					a
+						text-decoration: none
+						font-family: "helvetica-5"
+						font-size: 22px
+						color: $main-2
+						transition: 0.3s ease
+						&:hover
+							text-decoration: none
+							color: $text-accent
+				&-desc
+					text-align: left
+					font-family: "helvetica-5"
+					font-size: 16px
+					color: $text-minor
+				&:last-child
+					margin-bottom: 130px
+
+.clients
+	height: 500px
+	background-image: url(../img/clients-bg.png)
+	background-repeat: none
+	background-size: cover
+	&-title
+		margin-top: 75px
+		margin-bottom: 20px
+		color: $main
+	hr
+		border-top-color: $main
+		margin-bottom: 20px
+	.owl-two
+		.item
+			display: flex
+			align-items: center
+			justify-content: center
+			&-content
+				&-img-wrap
+					height: 75px
+					width: 160px
+					margin: 15px 5px 0
+					display: flex
+					align-items: center
+					justify-content: center
+					img
+						width: fit-content
+						height: fit-content
+						max-height: 75px
+						max-width: 160px
+		.owl-dots 
+			display: flex
+			justify-content: center
+			align-items: center
+			position: relative
+			top: -15px
+			.owl-dot
+				width: 15px
+				height: 15px
+				margin: 0 5px
+				border: solid 1px $main !important
+				border-radius: 100%
+				outline: none
+			.active		
+				background-color: $main !important
+			+media-breakpoint-down(md)
+				display: flex
+			+media-breakpoint-down(sm)
+				display: flex
+			+media-breakpoint-down(xs)
+				display: flex
+		.owl-nav
+			display: flex
+			justify-content: center
+			align-items: center
+			position: relative
+			top: 70px
+			color: $main
+			img
+				height: 36px
+			.owl-prev
+				height: 60px
+				outline: none
+				margin: 0 5px
+			.owl-next
+				height: 60px
+				outline: none
+				margin: 0 5px
+			+media-breakpoint-down(md)
+				display: flex
+			+media-breakpoint-down(sm)
+				display: flex
+			+media-breakpoint-down(xs)
+				display: flex
+
+.footer
+	background-color: $text
+	+media-breakpoint-down(sm)
+		text-align: left
+	+media-breakpoint-down(xs)
+		text-align: center
+	&-logo
+		height: 75px
+		margin-top: 65px
+		display: flex
+		+media-breakpoint-down(md)
+			align-items: center
+			justify-content: center
+		img
+			height: 75px
+	&-title
+		margin-top: 60px
+		font-family: "helvetica-7"
+		font-size: 16px
+		text-transform: uppercase
+		text-align: left
+		color: $text-footer
+		+media-breakpoint-down(xs)
+			margin-top: 25px
+			text-align: center
+	&-mnu
+		&-title
+		&-line
+			margin: 0
+			padding: 0
+		&-item
+			list-style-type: none
+			text-decoration: none
+			text-transform: capitalize
+			font-family: "helvetica-5"
+			font-size: 16px
+			color: $main
+			a
+				text-decoration: none
+				text-transform: capitalize
+				font-family: "helvetica-5"
+				font-size: 16px
+				color: $main
+				transition: 0.3s ease
+				&:hover
+					color: $text-accent
+	&-contacts
+		+media-breakpoint-down(md)
+			margin: 0 -30px
+		+media-breakpoint-down(sm)
+			margin: 0
+		&-title
+		&-desc
+			margin-bottom: 0
+			text-decoration: none
+			text-transform: capitalize
+			font-family: "helvetica-5"
+			font-size: 16px
+			color: $main
+			a
+				text-decoration: none
+				text-transform: capitalize
+				font-family: "helvetica-5"
+				font-size: 16px
+				color: $main
+				transition: 0.3s ease
+				&:hover
+					color: $text-accent
+		&-address
+			margin-top: 15px
+			text-decoration: none
+			text-transform: capitalize
+			font-family: "helvetica-5"
+			font-size: 16px
+			color: $main
+	&-social
+		&-title
+		&-line
+			// display: flex
+			+media-breakpoint-down(xs)
+				align-items: center
+				justify-content: center	
+		&-cont
+			margin: 8px 8px 8px 0
+			display: inline-block
+			a
+				height: 36px
+				width: 36px
+				background-color: $main
+				border-radius: 100%
+				display: flex
+				align-items: center
+				justify-content: center	
+				transition: 0.3s ease
+				&:hover
+					background-color: $text-accent
+				img
+					max-height: 18px
+					max-width: 18px
+			+media-breakpoint-down(xs)
+				margin: 8px
+	&-credits
+		text-align: center
+		hr
+			display: block
+			position: relative
+			padding: 0
+			margin: 40px auto 10px
+			height: 0
+			width: 100%
+			max-height: 0
+			font-size: 1px
+			line-height: 0
+			clear: both
+			border: none
+			border-top: 1px solid #53595e
+			border-bottom: none
+		&-desc
+			text-transform: capitalize
+			font-family: "helvetica-5"
+			font-size: 14px
+			color: #53595e
+
+/* Sub pages design */
+.product-head
+	height: 500px
+	width: 100%
+	margin-top: 100px
+	padding-top: 50px
+	position: relative
+	background-size: cover
+	background-position: center
+	&:before
+		content: ' '
+		position: absolute
+		top: 0
+		left: 0
+		width: 100%
+		height: 100%
+		background-color: $black
+		opacity: 0.2
+	.container, .row, .col-md-12
+		height: 100%
+	+media-breakpoint-down(md)
+		margin-top: 60px
+	&-bc
+		color: $main
+		text-align: left
+		text-transform: uppercase
+		font-family: "helvetica-6"
+		font-size: 16px
+		letter-spacing: 0.6px
+		word-spacing: 1px
+		a
+			margin-right: 12px
+			color: $main
+			text-decoration: none
+			transition: 0.3s ease
+			&:hover
+				color: $text-accent
+		& :last-child
+			margin: 0 12px
+	&-title
+		color: $main
+		text-align: left
+		text-shadow: 0px 0px 5px $black
+		position: absolute
+		bottom: 50px
+		font-size: 54px
+		+media-breakpoint-down(md)
+			font-size: 44px
+		@media (max-width: 420px)
+			font-size: 32px
+
+.sub-title
+	font-family: helvetica-7
+	line-height: 1.1
+	display: inline-block
+	text-align: left
+	text-transform: uppercase
+	font-size: 22px
+	padding-bottom: 22px
+	color: $text-accent
+	border-bottom: 4px solid $text-accent
+
+.description
+	padding: 75px 0
+	&-sub-title
+		padding: 30px 0
+		font-family: helvetica-4
+		font-size: 35px
+		font-weight: 100
+		line-height: 1.45
+		color: $text
+		word-spacing: 2px
+		letter-spacing: 1px
+	&-text
+		p
+			padding: 5px 0
+			font-family: helvetica-5
+			font-size: 20px
+			font-weight: 100
+			line-height: 1.6
+			color: $text
+			letter-spacing: 0.2px
+	&-cite
+		margin: 40px 0
+		padding: 30px 0 
+		border-top: 1px solid $text-minor
+		border-bottom: 1px solid $text-minor
+		color: $text-minor
+		&-text
+			padding-right: 20px
+			padding-bottom: 20px
+			margin: 0
+			font-family: helvetica-4
+			font-style: normal
+			font-weight: 100
+			font-size: 32px
+			word-spacing: 1px
+			letter-spacing: 1px
+		&-author
+			margin: 0
+			text-align: right
+			&:before
+				content: "\2014"
+	&-list
+		margin-top: 20px
+		padding-left: 0
+		clear: both
+		text-align: left
+		+media-breakpoint-down(sm)
+			padding-left: 15px
+		&-sub-title
+		&-item
+			position: relative
+			margin-bottom: 35px
+			list-style-type: none
+			&:before
+				content: ''
+				height: 14px
+				width: 14px
+				margin-top: 2px
+				position: absolute
+				left: -28px
+				background-size: 14px
+				background-image: url("../img/list-style-item-accent.svg")
+				background-repeat: no-repeat
+		&-number
+			position: absolute
+			top: -30px
+			left: -165px
+			width: 100px
+			height: 125px
+			text-align: center
+			font-size: 86px
+			color: $main
+			border-bottom: solid 1px $main
+		&-title
+			margin-bottom: 10px
+			text-align: left
+			text-transform: uppercase
+			font-size: 16px
+			font-family: "helvetica-5"
+			letter-spacing: 1.1px
+			line-height: 1.2
+			position: relative
+		&-desc
+			margin-bottom: 
+			text-align: left
+			font-family: "helvetica-5"
+			font-size: 16px
+			color: $text-minor
+			position: relative
+
+.interaction
+	padding: 75px 0
+	background-color: $main-accent
+	&-img-wrap
+		width: 100%
+		height: 100%
+		img
+			max-width: 100%
+			max-height: 100%
+	&-title
+		margin-bottom: 30px
+		+media-breakpoint-down(md)
+			margin-top: 40px
+	&-text
+		p
+			font-family: "helvetica-6"
+			font-size: 18px
+			color: $text-minor
+
+.read-more
+	&-btn-cont
+		display: flex
+		justify-content: center
+		padding: 40px 0
+		+media-breakpoint-down(md)
+			display: block
+			padding: 30px 0
+	&-btn-wrap
+		padding: 0 40px
+		position: relative
+		+media-breakpoint-down(md)
+			display: flex
+			justify-content: center
+			padding: 10px 40px
+	&-btn
+		height: auto
+		width: 270px
+		padding: 15px 30px
+		display: inline-block
+		line-height: 1.2
+		text-align: center
+		text-decoration: none
+		text-transform: uppercase
+		font-size: 14px
+		font-family: "helvetica-7"
+		font-weight: bold
+		letter-spacing: 1.1px
+		word-spacing: 3px
+		border-radius: 3px
+		background-color: $text-accent
+		color: $main
+		transition: 0.3s ease
+		@media (max-width: 370px)
+			padding: 15px 5px
+			line-height: 1.2
+		&:hover
+			text-decoration: none
+			background-color: $main
+			color: $black
+
+@import "media" // Always at the end

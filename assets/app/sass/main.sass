@@ -584,8 +584,7 @@ hr
 	text-align: center
 
 .about-us
-	height: 620px
-	padding-top: 100px
+	padding: 100px 0
 	background-image: url('../img/about-us-bg.png')
 	background-repeat: no-repeat
 	background-attachment: fixed
@@ -593,13 +592,14 @@ hr
 	&-title
 		margin-bottom: 35px
 	&-text
-		margin-top: 25px
-		font-size: 22px
-		font-family: "helvetica-4"
-		color: $text-minor
-		text-align: center
+		p
+			margin-top: 25px
+			font-size: 22px
+			font-family: "helvetica-4"
+			color: $text-minor
+			text-align: center
 	.arr-down
-		top: 40px
+		top: 0px
 		a span
 			border-left: 1px solid $text
 			border-bottom: 1px solid $text
@@ -617,8 +617,9 @@ hr
 		&-title
 			margin-bottom: 15px
 		&-text
-			margin-top: 5px
-			font-size: 16px
+			p
+				margin-top: 5px
+				font-size: 16px
 
 .about-us-2
 	height: 720px
@@ -641,11 +642,12 @@ hr
 		margin-top: 25px
 		margin-bottom: 25px
 	&-text
-		font-size: 16px
-		font-family: "helvetica-5"
-		color: $text-minor
-		line-height: 1.625
-		text-align: center
+		p
+			font-size: 16px
+			font-family: "helvetica-5"
+			color: $text-minor
+			line-height: 1.625
+			text-align: center
 
 +media-breakpoint-down(md)
 	.about-us-2
@@ -677,8 +679,9 @@ hr
 			margin-top: 25px
 			margin-bottom: 25px
 		&-text
-			font-size: 16px
-			line-height: 1.625
+			p
+				font-size: 16px
+				line-height: 1.625
 
 +media-breakpoint-down(xs)
 	.about-us-2
@@ -707,8 +710,9 @@ hr
 			margin-top: 25px
 			margin-bottom: 25px
 		&-text
-			font-size: 16px
-			line-height: 1.625
+			p
+				font-size: 16px
+				line-height: 1.625
 
 @media (max-width: 370px)
 	.about-us-2
@@ -717,8 +721,9 @@ hr
 			margin-top: 25px
 			margin-bottom: 25px
 		&-text
-			font-size: 14px
-			line-height: 1.625
+			p
+				font-size: 14px
+				line-height: 1.625
 
 .approach
 	height: 830px
@@ -737,7 +742,6 @@ hr
 			position: relative
 			height: 830px
 			width: 50%
-			background-image: url(../img/approach-bg.png)
 			background-size: cover
 			&:before
 				content: ' '
@@ -1178,13 +1182,11 @@ hr
 		&-desc
 			margin-bottom: 0
 			text-decoration: none
-			text-transform: capitalize
 			font-family: "helvetica-5"
 			font-size: 16px
 			color: $main
 			a
 				text-decoration: none
-				text-transform: capitalize
 				font-family: "helvetica-5"
 				font-size: 16px
 				color: $main

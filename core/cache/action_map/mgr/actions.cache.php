@@ -25,4 +25,17 @@
     'namespace_path' => 'D:/Programs/open_server/OSPanel/domains/ets.international/core/components/formit/',
     'namespace_assets_path' => '{assets_path}components/formit/',
   ),
+  3 => 
+  array (
+    'id' => '3',
+    'namespace' => 'migx',
+    'controller' => 'index',
+    'haslayout' => '0',
+    'lang_topics' => 'example:default',
+    'assets' => '',
+    'help_url' => '',
+    'namespace_name' => 'migx',
+    'namespace_path' => 'D:/Programs/open_server/OSPanel/domains/ets.international/core/components/migx/',
+    'namespace_assets_path' => '{assets_path}components/migx/',
+  ),
 );

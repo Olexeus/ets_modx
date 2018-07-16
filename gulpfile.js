@@ -1,4 +1,6 @@
-
+// npm install -g npm-check-updates
+// ncu
+// npm i --save-dev gulp gulp-util gulp-sass browser-sync gulp-concat gulp-uglify gulp-clean-css gulp-rename gulp-autoprefixer gulp-notify gulp-rsync
 
 var 	syntax        = 'sass'; // Syntax: sass or scss;
 var 	gulp          = require('gulp'),
@@ -42,7 +44,7 @@ gulp.task('js', function() {
 		'assets/app/js/common.js', // Always at the end
 		])
 	.pipe(concat('scripts.min.js'))
-	.pipe(uglify()) // Mifify js (opt.)
+	//.pipe(uglify()) // Mifify js (opt.)
 	.pipe(gulp.dest('assets/app/js'))
 	.pipe(browserSync.reload({ stream: true }))
 });

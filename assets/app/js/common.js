@@ -12,7 +12,7 @@ $(window).on( "load",function() {
 	if ($( window ).width() > 992) {
 		$(".mnu-line, .mnu-logo").animatedDown("fadeInDown", "fadeOutUp", '85%' );
 	} if ($( window ).width() > 650) {
-		$(".fade-up").animated("fadeInUp", "fadeOutDown", '85%' ); 
+		$(".fade-up").animated("fadeInUp", "fadeOutDown", '90%' ); 
 		$(".about-us-text").animated("fadeInUp", "fadeOutDown", '90%' );
 		$(".about-us-2-container").animated("zoomIn", "zoomOut", '70%' ); 
 		$(".solutions-item, .solutions-title-fade-up").animatedDown("fadeInUp", "fadeOutDown", '85%' );
@@ -21,7 +21,7 @@ $(window).on( "load",function() {
 	} if ($( window ).width() < 650) {
 		$(".fade-up").animated("fadeInUp", "fadeOutDown", '90%' ); 
 		$(".about-us-text").animated("fadeInUp", "fadeOutDown", '90%' );
-		$(".about-us-2-container").animated("fadeInUp", "fadeOutDown", '70%' ); 
+		$(".about-us-2-container").animated("fadeInUp", "fadeOutDown", '90%' ); 
 		$(".solutions-item, .solutions-title-fade-up").animatedDown("fadeInUp", "fadeOutDown", '85%' ); 
 	}
 
@@ -32,7 +32,7 @@ $(window).on( "load",function() {
 		margin:0,
 		navSpeed:500,
 		nav:true,
-		navText : ['<img src="../img/slider/arr-prev.png" alt="" class="arr-prev">','<img src="../img/slider/arr-next.png" alt="" class="arr-next">'],
+		navText : ['<img src="assets/app/img/slider/arr-prev.png" alt="" class="arr-prev">','<img src="assets/app/img/slider/arr-next.png" alt="" class="arr-next">'],
 		autoplay: true,
 		autoplayHoverPause: true,
 		rewind: false,
@@ -51,7 +51,7 @@ $(window).on( "load",function() {
 		margin:0,
 		navSpeed:500,
 		nav:true,
-		navText : ['<img src="../img/clients/arr-prev.png" alt="" class="arr-prev">','<img src="../img/clients/arr-next.png" alt="" class="arr-next">'],
+		navText : ['<img src="assets/app/img/clients/arr-prev.png" alt="" class="arr-prev">','<img src="assets/app/img/clients/arr-next.png" alt="" class="arr-next">'],
 		autoplay: true,
 		autoplayHoverPause: true,
 		rewind: false,
@@ -86,7 +86,8 @@ $(document).ready(function (){
 	// Scroll-to-id
 	$(".scroll-to-id").on('click', 'a[href^="#"]', function(e) {
 		// target element id
-		var id = $(this).attr('href');
+		var refElement = $(this).attr('href');
+		var id = refElement.substr(refElement.lastIndexOf("#"), refElement.lastIndexOf(""));
 		// prevent standard hash navigation (avoid blinking in IE)
 		e.preventDefault();
 
@@ -106,11 +107,11 @@ $(document).ready(function (){
 
 	// Menu button animation
 	$(".sandwich, .mnu-item").click(function() {
-		if ($(".mnu-line, .mnu-item, .mnu-mob").hasClass("active") && $('.sandwich').is(':visible')) {
-			$(".mnu-line, .mnu-item, .mnu-mob").fadeOut(600).toggleClass("active");
+		if ($(".mnu-line, .mnu-mob").hasClass("active") && $('.sandwich').is(':visible')) {
+			$(".mnu-line, .mnu-item, .mnu-mob").fadeOut(600).removeClass("active");
 			$(".sandwich").toggleClass("active");
-		} else if (!$(".mnu-line, .mnu-item, .mnu-mob").hasClass("active") && $('.sandwich').is(':visible')) {
-			$(".mnu-line, .mnu-item, .mnu-mob").fadeIn(600).toggleClass("active");
+		} else if (!$(".mnu-line, .mnu-mob").hasClass("active") && $('.sandwich').is(':visible')) {
+			$(".mnu-line, .mnu-item, .mnu-mob").fadeIn(600).addClass("active");
 			$(".sandwich").toggleClass("active");
 		}
 	});
@@ -166,29 +167,55 @@ $(document).on("scroll", onScroll);
 
 function onScroll(event){
 	var scrollPos = $(document).scrollTop();
-	$('.mnu-line a').each(function () {
+	$('.mnu-line li a').each(function () {
+
 		var currLink = $(this);
-		var refElement = $(currLink.attr("href"));
-		var t = currLink.attr("href");
-		var afterWithout = t.substr(0, t.lastIndexOf("#"));
-		if (afterWithout == "") {
-			if ( $( "#slider" ).height() >= scrollPos + 5 ) {
-				$('.mnu-line li a').removeClass("active");
-				$('.mnu-line li').find("a[href$='#slider']").addClass("active");
-			} else if ( $(document).height() - $( window ).height() <= scrollPos + 5 ) {
-				$('.mnu-line li a').removeClass("active");
-				$('.mnu-line li').find("a[href$='#contacts']").addClass("active");
-			} else if (
-					refElement.position().top - $(".mnu").outerHeight(true) <= scrollPos 
-					&& refElement.position().top + refElement.height() + $(".mnu").outerHeight(true) > scrollPos
-				) {
-				$('.mnu-line li a').removeClass("active");
-				currLink.addClass("active");
+		var refElement = currLink.attr("href");
+		
+		if (refElement.indexOf('#') != -1) { 
+			/*var afterWithout = t.substr(0, t.lastIndexOf("#"));
+			if (afterWithout == "") {
+				if ( $( "#slider" ).height() >= scrollPos + 5 ) {
+					$('.mnu-line li a').removeClass("active");
+					$('.mnu-line li').find("a[href$='#slider']").addClass("active");
+				} else if ( $(document).height() - $( window ).height() <= scrollPos + 5 ) {
+					$('.mnu-line li a').removeClass("active");
+					$('.mnu-line li').find("a[href$='#contacts']").addClass("active");
+				} else if (
+						refElement.position().top - $(".mnu").outerHeight(true) <= scrollPos 
+						&& refElement.position().top + refElement.height() + $(".mnu").outerHeight(true) > scrollPos
+					) {
+					$('.mnu-line li a').removeClass("active");
+					currLink.addClass("active");
+				} else {
+					currLink.removeClass("active");
+				}
 			} else {
-				currLink.removeClass("active");
+				return;
+			}*/
+			var elHref = $(refElement.substr(refElement.lastIndexOf("#"), refElement.lastIndexOf("")));
+			if (typeof elHref.position() !== 'undefined') {
+				if ( $( "#slider" ).height() >= scrollPos + 5 && typeof $('.mnu-line li').find("a[href$='#slider']") !== 'undefined') {
+					$('.mnu-line li a').removeClass("active");
+					$('.mnu-line li').find("a[href$='#slider']").addClass("active");
+				} else if ( $(document).height() - $( window ).height() <= scrollPos + 5) {
+					$('.mnu-line li a').removeClass("active");
+					$('.mnu-line li').find("a[href$='#contacts']").addClass("active");
+				} else if (
+						elHref.position().top - $(".mnu").outerHeight(true) <= scrollPos 
+						&& elHref.position().top + elHref.height() + $(".mnu").outerHeight(true) > scrollPos
+					) {
+					$('.mnu-line li a').removeClass("active");
+					currLink.addClass("active");
+				} else {
+					currLink.removeClass("active");
+				}
+			} else {
+				return;
 			}
 		} else {
 			return;
 		}
+			
 	});
 }

@@ -1,6 +1,20 @@
 <?php
 return array (
   0 => '/root',
-  1 => '/root/n_type_snippet',
-  2 => '/root/n_type_template',
+  1 => '/root/n_type_tv',
+  2 => '/root/n_type_tv/n_tv_category_4',
+  3 => '/root/n_type_tv/n_tv_category_6',
+  4 => '/root/n_type_tv/n_tv_category_7',
+  5 => '/root/n_type_tv/n_tv_category_9',
+  6 => '/root/n_type_template',
+  7 => '/root/n_type_chunk',
+  8 => '/root/n_type_tv/n_tv_category_10',
+  9 => '/root/n_type_chunk/n_chunk_category_10',
+  10 => '/root/n_type_plugin',
+  11 => '/root/n_type_plugin/n_plugin_category_3',
+  12 => '/root/n_type_snippet',
+  13 => '/root/n_type_snippet/n_snippet_category_3',
+  14 => '/root/n_type_chunk/n_chunk_category_4',
+  15 => '/root/n_type_chunk/n_chunk_category_7',
+  16 => '/root/n_type_chunk/n_chunk_category_6',
 );

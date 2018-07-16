@@ -23,6 +23,12 @@
     'path' => 'D:/Programs/open_server/OSPanel/domains/ets.international/core/components/formit/',
     'assets_path' => 'D:/Programs/open_server/OSPanel/domains/ets.international/assets/components/formit/',
   ),
+  'migx' => 
+  array (
+    'name' => 'migx',
+    'path' => 'D:/Programs/open_server/OSPanel/domains/ets.international/core/components/migx/',
+    'assets_path' => 'D:/Programs/open_server/OSPanel/domains/ets.international/assets/components/migx/',
+  ),
   'pdotools' => 
   array (
     'name' => 'pdotools',

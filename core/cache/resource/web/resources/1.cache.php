@@ -385,23 +385,23 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="soution-1/solution-sub-item-4" class="solutions-expand-list-item-link">Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-5/" class="solutions-expand-list-item-link">Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="soution-1/solution-sub-item-5" class="solutions-expand-list-item-link">Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-4/" class="solutions-expand-list-item-link">Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="soution-1/solution-sub-item-3" class="solutions-expand-list-item-link">Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-3/" class="solutions-expand-list-item-link">Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="soution-1/solution-bub-item-1" class="solutions-expand-list-item-link">Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-2/" class="solutions-expand-list-item-link">Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="soution-1/solution-sub-item-2" class="solutions-expand-list-item-link">Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-1/" class="solutions-expand-list-item-link">Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 			
@@ -420,15 +420,15 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-2/duplicate-of-solution-sub-item-1" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="duplicate-of-solution-sub-item-1/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-2/duplicate-of-solution-sub-item-2" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="duplicate-of-solution-sub-item-2/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-2/duplicate-of-solution-sub-item-3" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="duplicate-of-solution-sub-item-3/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 			
@@ -447,23 +447,23 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-2" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-2/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-1" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-1/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-3" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-3/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-5" class="solutions-expand-list-item-link">Duplicate of Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-5/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-4" class="solutions-expand-list-item-link">Duplicate of Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-4/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 			
@@ -482,23 +482,23 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-2" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-2/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-1" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-1/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-3" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-3/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-5" class="solutions-expand-list-item-link">Duplicate of Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-5/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-4" class="solutions-expand-list-item-link">Duplicate of Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-4/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 			
@@ -517,23 +517,23 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-2" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-2/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-1" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-1/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-3" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-3/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-5" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-5/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-4" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-4/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 			
@@ -552,23 +552,23 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-2" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-2/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-1" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-1/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-3" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-3/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-5" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-5/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-4" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-4/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 			
@@ -1049,115 +1049,115 @@
 		</div>
 	</section>',
     '[[pdoResources? &parents=`10` &depth=`0` &tpl=`solutions-sub-item` &limit=`0`]]' => '<li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="soution-1/solution-sub-item-4" class="solutions-expand-list-item-link">Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-5/" class="solutions-expand-list-item-link">Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="soution-1/solution-sub-item-5" class="solutions-expand-list-item-link">Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-4/" class="solutions-expand-list-item-link">Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="soution-1/solution-sub-item-3" class="solutions-expand-list-item-link">Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-3/" class="solutions-expand-list-item-link">Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="soution-1/solution-bub-item-1" class="solutions-expand-list-item-link">Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-2/" class="solutions-expand-list-item-link">Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="soution-1/solution-sub-item-2" class="solutions-expand-list-item-link">Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-1/" class="solutions-expand-list-item-link">Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>',
     '[[pdoResources? &parents=`15` &depth=`0` &tpl=`solutions-sub-item` &limit=`0`]]' => '<li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-2/duplicate-of-solution-sub-item-1" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="duplicate-of-solution-sub-item-1/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-2/duplicate-of-solution-sub-item-2" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="duplicate-of-solution-sub-item-2/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-2/duplicate-of-solution-sub-item-3" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="duplicate-of-solution-sub-item-3/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>',
     '[[pdoResources? &parents=`21` &depth=`0` &tpl=`solutions-sub-item` &limit=`0`]]' => '<li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-2" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-2/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-1" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-1/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-3" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-3/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-5" class="solutions-expand-list-item-link">Duplicate of Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-5/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-4" class="solutions-expand-list-item-link">Duplicate of Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-4/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>',
     '[[pdoResources? &parents=`27` &depth=`0` &tpl=`solutions-sub-item` &limit=`0`]]' => '<li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-2" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-2/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-1" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-1/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-3" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-3/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-5" class="solutions-expand-list-item-link">Duplicate of Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-5/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-4" class="solutions-expand-list-item-link">Duplicate of Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-4/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>',
     '[[pdoResources? &parents=`33` &depth=`0` &tpl=`solutions-sub-item` &limit=`0`]]' => '<li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-2" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-2/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-1" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-1/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-3" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-3/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-5" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-5/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-4" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-4/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>',
     '[[pdoResources? &parents=`39` &depth=`0` &tpl=`solutions-sub-item` &limit=`0`]]' => '<li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-2" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-2/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-1" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-1/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-3" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-3/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-5" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-5/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-4" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-4/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>',
     '[[getImageList? 
@@ -1176,23 +1176,23 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="soution-1/solution-sub-item-4" class="solutions-expand-list-item-link">Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-5/" class="solutions-expand-list-item-link">Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="soution-1/solution-sub-item-5" class="solutions-expand-list-item-link">Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-4/" class="solutions-expand-list-item-link">Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="soution-1/solution-sub-item-3" class="solutions-expand-list-item-link">Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-3/" class="solutions-expand-list-item-link">Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="soution-1/solution-bub-item-1" class="solutions-expand-list-item-link">Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-2/" class="solutions-expand-list-item-link">Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="soution-1/solution-sub-item-2" class="solutions-expand-list-item-link">Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-1/" class="solutions-expand-list-item-link">Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 			
@@ -1211,15 +1211,15 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-2/duplicate-of-solution-sub-item-1" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="duplicate-of-solution-sub-item-1/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-2/duplicate-of-solution-sub-item-2" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="duplicate-of-solution-sub-item-2/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-2/duplicate-of-solution-sub-item-3" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="duplicate-of-solution-sub-item-3/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 			
@@ -1238,23 +1238,23 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-2" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-2/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-1" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-1/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-3" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-3/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-5" class="solutions-expand-list-item-link">Duplicate of Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-5/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-4" class="solutions-expand-list-item-link">Duplicate of Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-4/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 			
@@ -1273,23 +1273,23 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-2" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-2/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-1" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-1/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-3" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-3/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-5" class="solutions-expand-list-item-link">Duplicate of Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-5/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-4" class="solutions-expand-list-item-link">Duplicate of Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-4/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 			
@@ -1308,23 +1308,23 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-2" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-2/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-1" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-1/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-3" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-3/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-5" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-5/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-4" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-4/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 			
@@ -1343,23 +1343,23 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-2" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-2/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-1" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-1/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-3" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-3/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-5" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-5/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-4" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-4/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 			
@@ -1389,23 +1389,23 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="soution-1/solution-sub-item-4" class="solutions-expand-list-item-link">Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-5/" class="solutions-expand-list-item-link">Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="soution-1/solution-sub-item-5" class="solutions-expand-list-item-link">Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-4/" class="solutions-expand-list-item-link">Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="soution-1/solution-sub-item-3" class="solutions-expand-list-item-link">Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-3/" class="solutions-expand-list-item-link">Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="soution-1/solution-bub-item-1" class="solutions-expand-list-item-link">Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-2/" class="solutions-expand-list-item-link">Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="soution-1/solution-sub-item-2" class="solutions-expand-list-item-link">Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-1/" class="solutions-expand-list-item-link">Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 			
@@ -1424,15 +1424,15 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-2/duplicate-of-solution-sub-item-1" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="duplicate-of-solution-sub-item-1/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-2/duplicate-of-solution-sub-item-2" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="duplicate-of-solution-sub-item-2/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-2/duplicate-of-solution-sub-item-3" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="duplicate-of-solution-sub-item-3/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 			
@@ -1451,23 +1451,23 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-2" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-2/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-1" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-1/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-3" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-3/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-5" class="solutions-expand-list-item-link">Duplicate of Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-5/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-4" class="solutions-expand-list-item-link">Duplicate of Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-3/duplicate-of-solution-sub-item-4/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 			
@@ -1486,23 +1486,23 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-2" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-2/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-1" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-1/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-3" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-3/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-5" class="solutions-expand-list-item-link">Duplicate of Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-5/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-4" class="solutions-expand-list-item-link">Duplicate of Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-4/duplicate-of-solution-sub-item-4/" class="solutions-expand-list-item-link">Duplicate of Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 			
@@ -1521,23 +1521,23 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-2" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-2/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-1" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-1/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-3" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-3/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-5" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-5/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-4" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-5/duplicate-of-duplicate-of-solution-sub-item-4/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 			
@@ -1556,23 +1556,23 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-2" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-2/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-1" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-1/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-3" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-3/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-5" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-5/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-4" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-item-6/duplicate-of-duplicate-of-solution-sub-item-4/" class="solutions-expand-list-item-link">Duplicate of Duplicate of Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 			

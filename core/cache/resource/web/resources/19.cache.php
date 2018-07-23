@@ -8,7 +8,7 @@
     'pagetitle' => 'Solution sub item 5',
     'longtitle' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s',
     'description' => '',
-    'alias' => 'solution-sub-item-4',
+    'alias' => 'solution-sub-item-5',
     'link_attributes' => '',
     'published' => 1,
     'pub_date' => 0,
@@ -62,7 +62,7 @@
     'createdby' => 1,
     'createdon' => 1532368594,
     'editedby' => 1,
-    'editedon' => 1532368638,
+    'editedon' => 1532372324,
     'deleted' => 0,
     'deletedon' => 0,
     'deletedby' => 0,
@@ -77,8 +77,8 @@
     'class_key' => 'modDocument',
     'context_key' => 'web',
     'content_type' => 1,
-    'uri' => 'soution-1/solution-sub-item-4/',
-    'uri_override' => 0,
+    'uri' => 'solution-sub-item-5/',
+    'uri_override' => 1,
     'hide_children_in_tree' => 0,
     'show_in_tree' => 0,
     'properties' => NULL,
@@ -255,9 +255,9 @@
 			<div class="col-md-12">
 				<div class="read-more-btn-cont">
 				    <div class="read-more-btn-wrap read-more-btn-prev">
-			                <a href="/soution-1/solution-sub-item-3/" class="read-more-btn"><span>prev: </span>Solution sub item 3</a>
+			                <a href="/solution-sub-item-3/" class="read-more-btn"><span>prev: </span>Solution sub item 3</a>
 			            </div><div class="read-more-btn-wrap read-more-btn-next">
-			                <a href="/soution-1/solution-sub-item-5/" class="read-more-btn"><span>next: </span>Solution sub item 4</a>
+			                <a href="/solution-sub-item-4/" class="read-more-btn"><span>next: </span>Solution sub item 4</a>
 			            </div>
 				</div>
 			</div>
@@ -465,9 +465,9 @@
 			            &hideUnsearchable=`1`
 			            &tplWrapper=`@INLINE [[+prev]][[+next]]`
 				    ]]' => '<div class="read-more-btn-wrap read-more-btn-prev">
-			                <a href="/soution-1/solution-sub-item-3/" class="read-more-btn"><span>prev: </span>Solution sub item 3</a>
+			                <a href="/solution-sub-item-3/" class="read-more-btn"><span>prev: </span>Solution sub item 3</a>
 			            </div><div class="read-more-btn-wrap read-more-btn-next">
-			                <a href="/soution-1/solution-sub-item-5/" class="read-more-btn"><span>next: </span>Solution sub item 4</a>
+			                <a href="/solution-sub-item-4/" class="read-more-btn"><span>next: </span>Solution sub item 4</a>
 			            </div>',
     '[[$solutions-page]]' => '<!-- Description section -->
 <section class="description">
@@ -543,9 +543,9 @@
 			<div class="col-md-12">
 				<div class="read-more-btn-cont">
 				    <div class="read-more-btn-wrap read-more-btn-prev">
-			                <a href="/soution-1/solution-sub-item-3/" class="read-more-btn"><span>prev: </span>Solution sub item 3</a>
+			                <a href="/solution-sub-item-3/" class="read-more-btn"><span>prev: </span>Solution sub item 3</a>
 			            </div><div class="read-more-btn-wrap read-more-btn-next">
-			                <a href="/soution-1/solution-sub-item-5/" class="read-more-btn"><span>next: </span>Solution sub item 4</a>
+			                <a href="/solution-sub-item-4/" class="read-more-btn"><span>next: </span>Solution sub item 4</a>
 			            </div>
 				</div>
 			</div>

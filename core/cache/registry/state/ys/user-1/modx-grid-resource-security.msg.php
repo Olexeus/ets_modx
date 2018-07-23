@@ -5,17 +5,17 @@ return array (
     0 => 
     array (
       'id' => 0,
-      'width' => 427,
+      'width' => 1008,
     ),
     1 => 
     array (
-      'id' => 'ext-gen42',
-      'width' => 84,
+      'id' => 'ext-gen331',
+      'width' => 94,
     ),
   ),
   'sort' => 
   array (
-    'field' => 'access',
+    'field' => 'name',
     'direction' => 'DESC',
   ),
 );

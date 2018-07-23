@@ -11,4 +11,5 @@ return array (
   8 => '/root/n_type_tv',
   9 => '/root/n_type_tv/n_tv_category_8',
   10 => '/root/n_type_tv/n_tv_category_8/n_tv_category_11',
+  11 => '/root/n_type_tv/n_tv_category_4',
 );

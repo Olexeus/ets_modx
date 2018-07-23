@@ -1341,3 +1341,9 @@ OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpt
 [2018-07-23 21:32:23] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\modx\modparser.class.php : 540) Could not find snippet with name Redirectoid.
 [2018-07-23 21:32:31] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\modx\modparser.class.php : 540) Could not find snippet with name Redirectoid.
 [2018-07-23 21:32:31] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\modx\modparser.class.php : 540) Could not find snippet with name Redirectoid.
+[2018-07-23 21:41:11] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\modx\modparser.class.php : 540) Could not find snippet with name Redirectoid.
+[2018-07-23 21:41:11] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\modx\modparser.class.php : 540) Could not find snippet with name Redirectoid.
+[2018-07-23 21:41:11] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\modx\modparser.class.php : 540) Could not find snippet with name Redirectoid.
+[2018-07-23 21:49:23] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/resource
+[2018-07-23 21:50:11] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2018-07-23 21:51:44] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default

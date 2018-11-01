@@ -1,2 +1,2 @@
 <?php
-return 'modx-resource-uri-override';
+return 'modx-resource-pagetitle';

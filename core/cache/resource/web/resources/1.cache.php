@@ -25,7 +25,7 @@
     'createdby' => 1,
     'createdon' => 1531562526,
     'editedby' => 1,
-    'editedon' => 1532370506,
+    'editedon' => 1532993454,
     'deleted' => 0,
     'deletedon' => 0,
     'deletedby' => 0,
@@ -56,7 +56,7 @@
     'about-us-1' => 
     array (
       0 => 'about-us-1',
-      1 => '[{"MIGX_id":"1","title":"About us","description":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\\/p>"}]',
+      1 => '[{"MIGX_id":"1","title":"About us","description":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"}]',
       2 => 'default',
       3 => NULL,
       4 => 'migx',
@@ -385,7 +385,7 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-5/" class="solutions-expand-list-item-link">Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-5/" class="solutions-expand-list-item-link">Solution sub 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
@@ -1049,7 +1049,7 @@
 		</div>
 	</section>',
     '[[pdoResources? &parents=`10` &depth=`0` &tpl=`solutions-sub-item` &limit=`0`]]' => '<li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-5/" class="solutions-expand-list-item-link">Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-5/" class="solutions-expand-list-item-link">Solution sub 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
@@ -1176,7 +1176,7 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-5/" class="solutions-expand-list-item-link">Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-5/" class="solutions-expand-list-item-link">Solution sub 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
@@ -1389,7 +1389,7 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-5/" class="solutions-expand-list-item-link">Solution sub item 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-5/" class="solutions-expand-list-item-link">Solution sub 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
@@ -2024,9 +2024,6 @@
         ),
         'policies' => 
         array (
-          'web' => 
-          array (
-          ),
         ),
         'source' => 
         array (
@@ -2115,9 +2112,6 @@
         ),
         'policies' => 
         array (
-          'web' => 
-          array (
-          ),
         ),
         'source' => 
         array (
@@ -2164,9 +2158,6 @@
         ),
         'policies' => 
         array (
-          'web' => 
-          array (
-          ),
         ),
         'source' => 
         array (
@@ -2223,9 +2214,6 @@
         ),
         'policies' => 
         array (
-          'web' => 
-          array (
-          ),
         ),
         'source' => 
         array (
@@ -2330,9 +2318,6 @@
         ),
         'policies' => 
         array (
-          'web' => 
-          array (
-          ),
         ),
         'source' => 
         array (
@@ -2395,9 +2380,6 @@
         ),
         'policies' => 
         array (
-          'web' => 
-          array (
-          ),
         ),
         'source' => 
         array (
@@ -2464,9 +2446,6 @@
         ),
         'policies' => 
         array (
-          'web' => 
-          array (
-          ),
         ),
         'source' => 
         array (
@@ -2673,9 +2652,6 @@
         ),
         'policies' => 
         array (
-          'web' => 
-          array (
-          ),
         ),
         'source' => 
         array (
@@ -3218,9 +3194,6 @@ if (!empty($toPlaceholder)) {
         ),
         'policies' => 
         array (
-          'web' => 
-          array (
-          ),
         ),
         'source' => 
         array (
@@ -4154,9 +4127,6 @@ return $o;',
         ),
         'policies' => 
         array (
-          'web' => 
-          array (
-          ),
         ),
         'source' => 
         array (
@@ -5097,9 +5067,6 @@ if (!empty($returnIds)) {
         ),
         'policies' => 
         array (
-          'web' => 
-          array (
-          ),
         ),
         'source' => 
         array (

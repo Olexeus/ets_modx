@@ -1,2 +1,2 @@
 <?php
-return '/Images/social-icons';
+return '/Images';

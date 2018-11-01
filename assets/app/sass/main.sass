@@ -246,6 +246,7 @@ $loader-ring-border-size: 3px
 .owl-one
 	height: calc(100vh - 100px)
 
+
 .slider
 	height: calc(100vh - 100px)
 	margin-top: 100px
@@ -273,6 +274,8 @@ $loader-ring-border-size: 3px
 			text-align: -webkit-center
 			text-align: -moz-center
 			display: table-cell
+			transition: all 1s ease
+			transition-delay: .15s
 		&-title
 			margin-bottom: 10px
 			font-size: 64px
@@ -283,6 +286,7 @@ $loader-ring-border-size: 3px
 			bottom: 50px
 			opacity: 0
 			transition: all 1s ease
+			transition-delay: .15s
 		&-desc
 			width: 50%
 			margin: 0 auto 60px
@@ -932,7 +936,10 @@ hr
 	background-size: cover
 	background-position-y: -50px
 	background-attachment: fixed
-	background-repeat: none
+	background-repeat: no-repeat
+	+media-breakpoint-down(md)
+		background-size: 135vw auto
+		background-position: center
 	&-title
 		margin-bottom: 35px
 	hr 
@@ -1057,6 +1064,8 @@ hr
 	background-image: url(../img/clients-bg.png)
 	background-repeat: none
 	background-size: cover
+	position: relative
+	z-index: 1
 	&-title
 		margin-top: 75px
 		margin-bottom: 20px
@@ -1129,6 +1138,8 @@ hr
 
 .footer
 	background-color: $text
+	position: relative
+	z-index: 100
 	+media-breakpoint-down(sm)
 		text-align: left
 	+media-breakpoint-down(xs)

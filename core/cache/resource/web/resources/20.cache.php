@@ -5,7 +5,7 @@
     'id' => 20,
     'type' => 'document',
     'contentType' => 'text/html',
-    'pagetitle' => 'Solution sub item 4',
+    'pagetitle' => 'Solution sub item 2',
     'longtitle' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s',
     'description' => '',
     'alias' => 'solution-sub-item-5',
@@ -62,11 +62,11 @@
     'createdby' => 1,
     'createdon' => 1532368602,
     'editedby' => 1,
-    'editedon' => 1532372300,
+    'editedon' => 1558745854,
     'deleted' => 0,
     'deletedon' => 0,
     'deletedby' => 0,
-    'publishedon' => 1532368560,
+    'publishedon' => 1532367660,
     'publishedby' => 1,
     'menutitle' => '',
     'donthit' => 0,
@@ -106,7 +106,7 @@
 	<meta charset="UTF-8">
 	<base href="[[!++site_url]]">
     
-	<title>Solution sub item 4 - ETS International</title>
+	<title>Solution sub item 2 - ETS International</title>
 	<meta name="description" content="">
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -172,9 +172,9 @@
 				<div class="product-head-bc">
 					<a href="[[!++site_url]]">TMS | HOME</a>
 					&nbsp;&gt;&nbsp;
-					<a><!-- I think without href -->Solution sub item 4</a>
+					<a><!-- I think without href -->Solution sub item 2</a>
 				</div>
-				<h4 class="product-head-title title">Solution sub item 4</h4>
+				<h4 class="product-head-title title">Solution sub item 2</h4>
 			</div>
 		</div>
 	</div>
@@ -255,9 +255,9 @@
 			<div class="col-md-12">
 				<div class="read-more-btn-cont">
 				    <div class="read-more-btn-wrap read-more-btn-prev">
-			                <a href="/solution-sub-5/" class="read-more-btn"><span>prev: </span>Solution sub 5</a>
+			                <a href="/solution-sub-item-3/" class="read-more-btn"><span>prev: </span>Solution sub item 1</a>
 			            </div><div class="read-more-btn-wrap read-more-btn-next">
-			                <a href="/solution-sub-item-2/" class="read-more-btn"><span>next: </span>Solution sub item 2</a>
+			                <a href="/solution-sub-5/" class="read-more-btn"><span>next: </span>Solution sub 3</a>
 			            </div>
 				</div>
 			</div>
@@ -348,7 +348,7 @@
   array (
     '[[pdoField? &field=`favicon-small` &limit=`1`]]' => '',
     '[[pdoField? &field=`favicon-big` &limit=`1`]]' => '',
-    '[[$head? &pageTitle=`Solution sub item 4 - ETS International`]]' => '<!DOCTYPE html>
+    '[[$head? &pageTitle=`Solution sub item 2 - ETS International`]]' => '<!DOCTYPE html>
 <html lang="ru">
 
 <head>
@@ -356,7 +356,7 @@
 	<meta charset="UTF-8">
 	<base href="[[!++site_url]]">
     
-	<title>Solution sub item 4 - ETS International</title>
+	<title>Solution sub item 2 - ETS International</title>
 	<meta name="description" content="">
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -427,9 +427,9 @@
 				<div class="product-head-bc">
 					<a href="[[!++site_url]]">TMS | HOME</a>
 					&nbsp;&gt;&nbsp;
-					<a><!-- I think without href -->Solution sub item 4</a>
+					<a><!-- I think without href -->Solution sub item 2</a>
 				</div>
-				<h4 class="product-head-title title">Solution sub item 4</h4>
+				<h4 class="product-head-title title">Solution sub item 2</h4>
 			</div>
 		</div>
 	</div>
@@ -456,18 +456,21 @@
 	</div>
 </section>',
     '[[pdoNeighbors?
-				        &tplPrev=`@INLINE <div class="read-more-btn-wrap read-more-btn-prev">
-			                <a href="/[[+uri]]" class="read-more-btn"><span>prev: </span>[[+menutitle]]</a>
-			            </div>`
-			            &tplNext=`@INLINE <div class="read-more-btn-wrap read-more-btn-next">
+				        &tplPrev=`@INLINE <div class="read-more-btn-wrap read-more-btn-next">
 			                <a href="/[[+uri]]" class="read-more-btn"><span>next: </span>[[+menutitle]]</a>
 			            </div>`
+			            &tplNext=`@INLINE <div class="read-more-btn-wrap read-more-btn-prev">
+			                <a href="/[[+uri]]" class="read-more-btn"><span>prev: </span>[[+menutitle]]</a>
+			            </div>`
 			            &hideUnsearchable=`1`
-			            &tplWrapper=`@INLINE [[+prev]][[+next]]`
+			            &sortby=`publishedon`
+			            &sortdir=`asc`
+			            &tplWrapper=`@INLINE [[+next]][[+prev]]`
+			            &loop=`0`
 				    ]]' => '<div class="read-more-btn-wrap read-more-btn-prev">
-			                <a href="/solution-sub-5/" class="read-more-btn"><span>prev: </span>Solution sub 5</a>
+			                <a href="/solution-sub-item-3/" class="read-more-btn"><span>prev: </span>Solution sub item 1</a>
 			            </div><div class="read-more-btn-wrap read-more-btn-next">
-			                <a href="/solution-sub-item-2/" class="read-more-btn"><span>next: </span>Solution sub item 2</a>
+			                <a href="/solution-sub-5/" class="read-more-btn"><span>next: </span>Solution sub 3</a>
 			            </div>',
     '[[$solutions-page]]' => '<!-- Description section -->
 <section class="description">
@@ -543,9 +546,9 @@
 			<div class="col-md-12">
 				<div class="read-more-btn-cont">
 				    <div class="read-more-btn-wrap read-more-btn-prev">
-			                <a href="/solution-sub-5/" class="read-more-btn"><span>prev: </span>Solution sub 5</a>
+			                <a href="/solution-sub-item-3/" class="read-more-btn"><span>prev: </span>Solution sub item 1</a>
 			            </div><div class="read-more-btn-wrap read-more-btn-next">
-			                <a href="/solution-sub-item-2/" class="read-more-btn"><span>next: </span>Solution sub item 2</a>
+			                <a href="/solution-sub-5/" class="read-more-btn"><span>next: </span>Solution sub 3</a>
 			            </div>
 				</div>
 			</div>
@@ -986,14 +989,17 @@
 			<div class="col-md-12">
 				<div class="read-more-btn-cont">
 				    [[pdoNeighbors?
-				        &tplPrev=`@INLINE <div class="read-more-btn-wrap read-more-btn-prev">
-			                <a href="/[[+uri]]" class="read-more-btn"><span>prev: </span>[[+menutitle]]</a>
-			            </div>`
-			            &tplNext=`@INLINE <div class="read-more-btn-wrap read-more-btn-next">
+				        &tplPrev=`@INLINE <div class="read-more-btn-wrap read-more-btn-next">
 			                <a href="/[[+uri]]" class="read-more-btn"><span>next: </span>[[+menutitle]]</a>
 			            </div>`
+			            &tplNext=`@INLINE <div class="read-more-btn-wrap read-more-btn-prev">
+			                <a href="/[[+uri]]" class="read-more-btn"><span>prev: </span>[[+menutitle]]</a>
+			            </div>`
 			            &hideUnsearchable=`1`
-			            &tplWrapper=`@INLINE [[+prev]][[+next]]`
+			            &sortby=`publishedon`
+			            &sortdir=`asc`
+			            &tplWrapper=`@INLINE [[+next]][[+prev]]`
+			            &loop=`0`
 				    ]]
 				</div>
 			</div>
@@ -1031,14 +1037,17 @@
 			<div class="col-md-12">
 				<div class="read-more-btn-cont">
 				    [[pdoNeighbors?
-				        &tplPrev=`@INLINE <div class="read-more-btn-wrap read-more-btn-prev">
-			                <a href="/[[+uri]]" class="read-more-btn"><span>prev: </span>[[+menutitle]]</a>
-			            </div>`
-			            &tplNext=`@INLINE <div class="read-more-btn-wrap read-more-btn-next">
+				        &tplPrev=`@INLINE <div class="read-more-btn-wrap read-more-btn-next">
 			                <a href="/[[+uri]]" class="read-more-btn"><span>next: </span>[[+menutitle]]</a>
 			            </div>`
+			            &tplNext=`@INLINE <div class="read-more-btn-wrap read-more-btn-prev">
+			                <a href="/[[+uri]]" class="read-more-btn"><span>prev: </span>[[+menutitle]]</a>
+			            </div>`
 			            &hideUnsearchable=`1`
-			            &tplWrapper=`@INLINE [[+prev]][[+next]]`
+			            &sortby=`publishedon`
+			            &sortdir=`asc`
+			            &tplWrapper=`@INLINE [[+next]][[+prev]]`
+			            &loop=`0`
 				    ]]
 				</div>
 			</div>

@@ -2875,3 +2875,80 @@ OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpt
 [2018-10-18 04:10:45] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\phpthumb\modphpthumb.class.php : 144) phpThumb was unable to generate a thumbnail for: D:\Programs\open_server\OSPanel\domains\ets.international\core\cache\phpthumb\ets.international__src06f067d1a4a663b687c527e32ba1957a_par0ba78bb0326502335f8683fdf331013a_dat1531486930.jpeg
 [2018-10-18 04:10:45] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\phpthumb\modphpthumb.class.php : 156) Error outputting thumbnail:
 OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2018-12-19 02:09:46] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\xpdo\om\xpdoobject.class.php : 236) PHP warning: PDOStatement::execute(): MySQL server has gone away
+[2018-12-19 02:09:46] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\xpdo\om\xpdoobject.class.php : 236) PHP warning: PDOStatement::execute(): Error reading result set's header
+[2018-12-19 02:09:46] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\xpdo\om\xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-12-19 02:09:46] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `ets_session` (`id`, `access`, `data`) VALUES ('2vddsnkbpi4087p1ju1v1clt3nl0khgt', 1545174586, 'modx.user.contextTokens|a:0:{}modx.user.0.resourceGroups|a:1:{s:3:\"web\";a:0:{}}modx.user.0.attributes|a:1:{s:3:\"web\";a:5:{s:16:\"modAccessContext\";a:1:{s:3:\"web\";a:1:{i:0;a:3:{s:9:\"principal\";i:0;s:9:\"authority\";s:1:\"0\";s:6:\"policy\";a:1:{s:4:\"load\";b:1;}}}}s:22:\"modAccessResourceGroup\";a:0:{}s:17:\"modAccessCategory\";a:0:{}s:28:\"sources.modAccessMediaSource\";a:0:{}s:18:\"modAccessNamespace\";a:0:{}}}')
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-12-19 02:09:47] (ERROR @ Unknown0) PHP warning: Unknown: Failed to write session data using user defined save handler. (session.save_path: d:/programs/open_server/ospanel/userdata/temp/)
+[2019-05-25 00:53:59] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\xpdo\cache\xpdocachemanager.class.php : 514) PHP warning: unlink(D:/Programs/open_server/OSPanel/domains/ets.international/core/cache/resource/web/resources/2.cache.php): Resource temporarily unavailable
+[2019-05-25 00:53:59] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\xpdo\cache\xpdocachemanager.class.php : 522) PHP warning: closedir(): supplied resource is not a valid Directory resource
+[2019-05-25 00:53:59] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2019-05-25 00:56:03] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\xpdo\om\xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2019-05-25 00:56:03] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `ets_session` (`id`, `access`, `data`) VALUES ('t83onh5omfk36i2g9lks408go5mk5a29', 1558734963, 'modx.user.contextTokens|a:0:{}modx.user.0.resourceGroups|a:1:{s:3:\"web\";a:0:{}}modx.user.0.attributes|a:1:{s:3:\"web\";a:5:{s:16:\"modAccessContext\";a:1:{s:3:\"web\";a:1:{i:0;a:3:{s:9:\"principal\";i:0;s:9:\"authority\";s:1:\"0\";s:6:\"policy\";a:1:{s:4:\"load\";b:1;}}}}s:22:\"modAccessResourceGroup\";a:0:{}s:17:\"modAccessCategory\";a:0:{}s:28:\"sources.modAccessMediaSource\";a:0:{}s:18:\"modAccessNamespace\";a:0:{}}}')
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2019-05-25 03:25:20] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\phpthumb\modphpthumb.class.php : 144) phpThumb was unable to generate a thumbnail for: D:\Programs\open_server\OSPanel\domains\ets.international\core\cache\phpthumb\ets.international__src1cf8f9bc0fc4174dfa011fcf900d4dad_par0ba78bb0326502335f8683fdf331013a_dat1533309136.jpeg
+[2019-05-25 03:25:20] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\phpthumb\modphpthumb.class.php : 144) phpThumb was unable to generate a thumbnail for: D:\Programs\open_server\OSPanel\domains\ets.international\core\cache\phpthumb\ets.international__src508fd8843e879c70ba897145ccca86d4_par0ba78bb0326502335f8683fdf331013a_dat1530412689.jpeg
+[2019-05-25 03:25:20] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\phpthumb\modphpthumb.class.php : 156) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2019-05-25 03:25:20] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\phpthumb\modphpthumb.class.php : 156) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2019-05-25 03:25:20] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\phpthumb\modphpthumb.class.php : 144) phpThumb was unable to generate a thumbnail for: D:\Programs\open_server\OSPanel\domains\ets.international\core\cache\phpthumb\ets.international__src06f067d1a4a663b687c527e32ba1957a_par0ba78bb0326502335f8683fdf331013a_dat1531486930.jpeg
+[2019-05-25 03:25:20] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\phpthumb\modphpthumb.class.php : 156) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2019-05-25 03:35:32] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2019-05-25 03:57:08] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\phpthumb\modphpthumb.class.php : 144) phpThumb was unable to generate a thumbnail for: D:\Programs\open_server\OSPanel\domains\ets.international\core\cache\phpthumb\ets.international__src508fd8843e879c70ba897145ccca86d4_par0ba78bb0326502335f8683fdf331013a_dat1530412689.jpeg
+[2019-05-25 03:57:08] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\phpthumb\modphpthumb.class.php : 144) phpThumb was unable to generate a thumbnail for: D:\Programs\open_server\OSPanel\domains\ets.international\core\cache\phpthumb\ets.international__src1cf8f9bc0fc4174dfa011fcf900d4dad_par0ba78bb0326502335f8683fdf331013a_dat1533309136.jpeg
+[2019-05-25 03:57:08] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\phpthumb\modphpthumb.class.php : 156) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2019-05-25 03:57:08] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\phpthumb\modphpthumb.class.php : 156) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2019-05-25 03:57:08] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\phpthumb\modphpthumb.class.php : 144) phpThumb was unable to generate a thumbnail for: D:\Programs\open_server\OSPanel\domains\ets.international\core\cache\phpthumb\ets.international__src06f067d1a4a663b687c527e32ba1957a_par0ba78bb0326502335f8683fdf331013a_dat1531486930.jpeg
+[2019-05-25 03:57:08] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\phpthumb\modphpthumb.class.php : 156) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2019-05-25 03:58:39] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2019-06-11 18:43:01] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\xpdo\om\xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2019-06-11 18:43:01] (ERROR @ D:\Programs\open_server\OSPanel\domains\ets.international\core\xpdo\om\xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `ets_session` (`id`, `access`, `data`) VALUES ('4vaor6jikiotvmamqgtu3eb1a5fklv50', 1560267781, 'modx.user.0.resourceGroups|a:1:{s:3:\"web\";a:0:{}}modx.user.0.attributes|a:1:{s:3:\"web\";a:5:{s:16:\"modAccessContext\";a:1:{s:3:\"web\";a:1:{i:0;a:3:{s:9:\"principal\";i:0;s:9:\"authority\";s:1:\"0\";s:6:\"policy\";a:1:{s:4:\"load\";b:1;}}}}s:22:\"modAccessResourceGroup\";a:0:{}s:17:\"modAccessCategory\";a:0:{}s:28:\"sources.modAccessMediaSource\";a:0:{}s:18:\"modAccessNamespace\";a:0:{}}}modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+

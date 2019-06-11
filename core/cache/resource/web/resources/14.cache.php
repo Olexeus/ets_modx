@@ -5,7 +5,7 @@
     'id' => 14,
     'type' => 'document',
     'contentType' => 'text/html',
-    'pagetitle' => 'Solution sub item 3',
+    'pagetitle' => 'Solution sub item 1',
     'longtitle' => 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s',
     'description' => '',
     'alias' => 'solution-sub-item-3',
@@ -62,11 +62,11 @@
     'createdby' => 1,
     'createdon' => 1532368282,
     'editedby' => 1,
-    'editedon' => 1532372330,
+    'editedon' => 1558745845,
     'deleted' => 0,
     'deletedon' => 0,
     'deletedby' => 0,
-    'publishedon' => 1532368260,
+    'publishedon' => 1532367720,
     'publishedby' => 1,
     'menutitle' => '',
     'donthit' => 0,
@@ -106,7 +106,7 @@
 	<meta charset="UTF-8">
 	<base href="[[!++site_url]]">
     
-	<title>Solution sub item 3 - ETS International</title>
+	<title>Solution sub item 1 - ETS International</title>
 	<meta name="description" content="">
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -172,9 +172,9 @@
 				<div class="product-head-bc">
 					<a href="[[!++site_url]]">TMS | HOME</a>
 					&nbsp;&gt;&nbsp;
-					<a><!-- I think without href -->Solution sub item 3</a>
+					<a><!-- I think without href -->Solution sub item 1</a>
 				</div>
-				<h4 class="product-head-title title">Solution sub item 3</h4>
+				<h4 class="product-head-title title">Solution sub item 1</h4>
 			</div>
 		</div>
 	</div>
@@ -254,10 +254,8 @@
 		<div class="row">
 			<div class="col-md-12">
 				<div class="read-more-btn-cont">
-				    <div class="read-more-btn-wrap read-more-btn-prev">
-			                <a href="/solution-sub-item-1/" class="read-more-btn"><span>prev: </span>Solution sub item 1</a>
-			            </div><div class="read-more-btn-wrap read-more-btn-next">
-			                <a href="/solution-sub-5/" class="read-more-btn"><span>next: </span>Solution sub 5</a>
+				    <div class="read-more-btn-wrap read-more-btn-next">
+			                <a href="/solution-sub-item-4/" class="read-more-btn"><span>next: </span>Solution sub item 2</a>
 			            </div>
 				</div>
 			</div>
@@ -348,7 +346,7 @@
   array (
     '[[pdoField? &field=`favicon-small` &limit=`1`]]' => '',
     '[[pdoField? &field=`favicon-big` &limit=`1`]]' => '',
-    '[[$head? &pageTitle=`Solution sub item 3 - ETS International`]]' => '<!DOCTYPE html>
+    '[[$head? &pageTitle=`Solution sub item 1 - ETS International`]]' => '<!DOCTYPE html>
 <html lang="ru">
 
 <head>
@@ -356,7 +354,7 @@
 	<meta charset="UTF-8">
 	<base href="[[!++site_url]]">
     
-	<title>Solution sub item 3 - ETS International</title>
+	<title>Solution sub item 1 - ETS International</title>
 	<meta name="description" content="">
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -427,9 +425,9 @@
 				<div class="product-head-bc">
 					<a href="[[!++site_url]]">TMS | HOME</a>
 					&nbsp;&gt;&nbsp;
-					<a><!-- I think without href -->Solution sub item 3</a>
+					<a><!-- I think without href -->Solution sub item 1</a>
 				</div>
-				<h4 class="product-head-title title">Solution sub item 3</h4>
+				<h4 class="product-head-title title">Solution sub item 1</h4>
 			</div>
 		</div>
 	</div>
@@ -456,18 +454,19 @@
 	</div>
 </section>',
     '[[pdoNeighbors?
-				        &tplPrev=`@INLINE <div class="read-more-btn-wrap read-more-btn-prev">
-			                <a href="/[[+uri]]" class="read-more-btn"><span>prev: </span>[[+menutitle]]</a>
-			            </div>`
-			            &tplNext=`@INLINE <div class="read-more-btn-wrap read-more-btn-next">
+				        &tplPrev=`@INLINE <div class="read-more-btn-wrap read-more-btn-next">
 			                <a href="/[[+uri]]" class="read-more-btn"><span>next: </span>[[+menutitle]]</a>
 			            </div>`
+			            &tplNext=`@INLINE <div class="read-more-btn-wrap read-more-btn-prev">
+			                <a href="/[[+uri]]" class="read-more-btn"><span>prev: </span>[[+menutitle]]</a>
+			            </div>`
 			            &hideUnsearchable=`1`
-			            &tplWrapper=`@INLINE [[+prev]][[+next]]`
-				    ]]' => '<div class="read-more-btn-wrap read-more-btn-prev">
-			                <a href="/solution-sub-item-1/" class="read-more-btn"><span>prev: </span>Solution sub item 1</a>
-			            </div><div class="read-more-btn-wrap read-more-btn-next">
-			                <a href="/solution-sub-5/" class="read-more-btn"><span>next: </span>Solution sub 5</a>
+			            &sortby=`publishedon`
+			            &sortdir=`asc`
+			            &tplWrapper=`@INLINE [[+next]][[+prev]]`
+			            &loop=`0`
+				    ]]' => '<div class="read-more-btn-wrap read-more-btn-next">
+			                <a href="/solution-sub-item-4/" class="read-more-btn"><span>next: </span>Solution sub item 2</a>
 			            </div>',
     '[[$solutions-page]]' => '<!-- Description section -->
 <section class="description">
@@ -542,10 +541,8 @@
 		<div class="row">
 			<div class="col-md-12">
 				<div class="read-more-btn-cont">
-				    <div class="read-more-btn-wrap read-more-btn-prev">
-			                <a href="/solution-sub-item-1/" class="read-more-btn"><span>prev: </span>Solution sub item 1</a>
-			            </div><div class="read-more-btn-wrap read-more-btn-next">
-			                <a href="/solution-sub-5/" class="read-more-btn"><span>next: </span>Solution sub 5</a>
+				    <div class="read-more-btn-wrap read-more-btn-next">
+			                <a href="/solution-sub-item-4/" class="read-more-btn"><span>next: </span>Solution sub item 2</a>
 			            </div>
 				</div>
 			</div>
@@ -792,9 +789,6 @@
         ),
         'policies' => 
         array (
-          'web' => 
-          array (
-          ),
         ),
         'source' => 
         array (
@@ -883,9 +877,6 @@
         ),
         'policies' => 
         array (
-          'web' => 
-          array (
-          ),
         ),
         'source' => 
         array (
@@ -942,9 +933,6 @@
         ),
         'policies' => 
         array (
-          'web' => 
-          array (
-          ),
         ),
         'source' => 
         array (
@@ -995,14 +983,17 @@
 			<div class="col-md-12">
 				<div class="read-more-btn-cont">
 				    [[pdoNeighbors?
-				        &tplPrev=`@INLINE <div class="read-more-btn-wrap read-more-btn-prev">
-			                <a href="/[[+uri]]" class="read-more-btn"><span>prev: </span>[[+menutitle]]</a>
-			            </div>`
-			            &tplNext=`@INLINE <div class="read-more-btn-wrap read-more-btn-next">
+				        &tplPrev=`@INLINE <div class="read-more-btn-wrap read-more-btn-next">
 			                <a href="/[[+uri]]" class="read-more-btn"><span>next: </span>[[+menutitle]]</a>
 			            </div>`
+			            &tplNext=`@INLINE <div class="read-more-btn-wrap read-more-btn-prev">
+			                <a href="/[[+uri]]" class="read-more-btn"><span>prev: </span>[[+menutitle]]</a>
+			            </div>`
 			            &hideUnsearchable=`1`
-			            &tplWrapper=`@INLINE [[+prev]][[+next]]`
+			            &sortby=`publishedon`
+			            &sortdir=`asc`
+			            &tplWrapper=`@INLINE [[+next]][[+prev]]`
+			            &loop=`0`
 				    ]]
 				</div>
 			</div>
@@ -1040,14 +1031,17 @@
 			<div class="col-md-12">
 				<div class="read-more-btn-cont">
 				    [[pdoNeighbors?
-				        &tplPrev=`@INLINE <div class="read-more-btn-wrap read-more-btn-prev">
-			                <a href="/[[+uri]]" class="read-more-btn"><span>prev: </span>[[+menutitle]]</a>
-			            </div>`
-			            &tplNext=`@INLINE <div class="read-more-btn-wrap read-more-btn-next">
+				        &tplPrev=`@INLINE <div class="read-more-btn-wrap read-more-btn-next">
 			                <a href="/[[+uri]]" class="read-more-btn"><span>next: </span>[[+menutitle]]</a>
 			            </div>`
+			            &tplNext=`@INLINE <div class="read-more-btn-wrap read-more-btn-prev">
+			                <a href="/[[+uri]]" class="read-more-btn"><span>prev: </span>[[+menutitle]]</a>
+			            </div>`
 			            &hideUnsearchable=`1`
-			            &tplWrapper=`@INLINE [[+prev]][[+next]]`
+			            &sortby=`publishedon`
+			            &sortdir=`asc`
+			            &tplWrapper=`@INLINE [[+next]][[+prev]]`
+			            &loop=`0`
 				    ]]
 				</div>
 			</div>
@@ -1057,9 +1051,6 @@
         ),
         'policies' => 
         array (
-          'web' => 
-          array (
-          ),
         ),
         'source' => 
         array (
@@ -1274,9 +1265,6 @@
         ),
         'policies' => 
         array (
-          'web' => 
-          array (
-          ),
         ),
         'source' => 
         array (
@@ -1819,9 +1807,6 @@ if (!empty($toPlaceholder)) {
         ),
         'policies' => 
         array (
-          'web' => 
-          array (
-          ),
         ),
         'source' => 
         array (
@@ -2755,9 +2740,6 @@ return $o;',
         ),
         'policies' => 
         array (
-          'web' => 
-          array (
-          ),
         ),
         'source' => 
         array (
@@ -3570,9 +3552,6 @@ if (!empty($toSeparatePlaceholders)) {
         ),
         'policies' => 
         array (
-          'web' => 
-          array (
-          ),
         ),
         'source' => 
         array (
@@ -3710,9 +3689,6 @@ return $thumbnail->render();',
         ),
         'policies' => 
         array (
-          'web' => 
-          array (
-          ),
         ),
         'source' => 
         array (

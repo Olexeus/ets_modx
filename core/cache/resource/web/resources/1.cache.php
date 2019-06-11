@@ -257,7 +257,7 @@
 
 	<!-- Main slider section -->
 <section id="slider" class="slider">
-	<div class="owl-one owl-carousel owl-theme">
+	<div class="owl-one owl-carousel owl-theme" id="owl-one">
 	    <div class="item">
 	<div class="item-content" style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(assets/app/img/slider/slide-1.png)">
 		<h4 class="item-title">Solutions 1</h4>
@@ -385,23 +385,23 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-5/" class="solutions-expand-list-item-link">Solution sub 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-3/" class="solutions-expand-list-item-link">Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-4/" class="solutions-expand-list-item-link">Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-4/" class="solutions-expand-list-item-link">Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-3/" class="solutions-expand-list-item-link">Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-5/" class="solutions-expand-list-item-link">Solution sub 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-2/" class="solutions-expand-list-item-link">Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-1/" class="solutions-expand-list-item-link">Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-1/" class="solutions-expand-list-item-link">Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-2/" class="solutions-expand-list-item-link">Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 			
@@ -864,7 +864,7 @@
 </div>',
     '[[$slider]]' => '<!-- Main slider section -->
 <section id="slider" class="slider">
-	<div class="owl-one owl-carousel owl-theme">
+	<div class="owl-one owl-carousel owl-theme" id="owl-one">
 	    <div class="item">
 	<div class="item-content" style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(assets/app/img/slider/slide-1.png)">
 		<h4 class="item-title">Solutions 1</h4>
@@ -1049,23 +1049,23 @@
 		</div>
 	</section>',
     '[[pdoResources? &parents=`10` &depth=`0` &tpl=`solutions-sub-item` &limit=`0`]]' => '<li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-5/" class="solutions-expand-list-item-link">Solution sub 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-3/" class="solutions-expand-list-item-link">Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-4/" class="solutions-expand-list-item-link">Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-4/" class="solutions-expand-list-item-link">Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-3/" class="solutions-expand-list-item-link">Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-5/" class="solutions-expand-list-item-link">Solution sub 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-2/" class="solutions-expand-list-item-link">Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-1/" class="solutions-expand-list-item-link">Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-1/" class="solutions-expand-list-item-link">Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-2/" class="solutions-expand-list-item-link">Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>',
     '[[pdoResources? &parents=`15` &depth=`0` &tpl=`solutions-sub-item` &limit=`0`]]' => '<li class="solutions-expand-list-item">
@@ -1176,23 +1176,23 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-5/" class="solutions-expand-list-item-link">Solution sub 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-3/" class="solutions-expand-list-item-link">Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-4/" class="solutions-expand-list-item-link">Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-4/" class="solutions-expand-list-item-link">Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-3/" class="solutions-expand-list-item-link">Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-5/" class="solutions-expand-list-item-link">Solution sub 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-2/" class="solutions-expand-list-item-link">Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-1/" class="solutions-expand-list-item-link">Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-1/" class="solutions-expand-list-item-link">Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-2/" class="solutions-expand-list-item-link">Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 			
@@ -1389,23 +1389,23 @@
 		<ul class="solutions-expand-list">
 		    
 		    <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-5/" class="solutions-expand-list-item-link">Solution sub 5</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-3/" class="solutions-expand-list-item-link">Solution sub item 1</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-4/" class="solutions-expand-list-item-link">Solution sub item 4</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-4/" class="solutions-expand-list-item-link">Solution sub item 2</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-3/" class="solutions-expand-list-item-link">Solution sub item 3</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-5/" class="solutions-expand-list-item-link">Solution sub 3</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-2/" class="solutions-expand-list-item-link">Solution sub item 2</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-1/" class="solutions-expand-list-item-link">Solution sub item 4</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 <li class="solutions-expand-list-item">
-	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-1/" class="solutions-expand-list-item-link">Solution sub item 1</a></h5>
+	<h5 class="solutions-expand-list-item-title title"><a href="solution-sub-item-2/" class="solutions-expand-list-item-link">Solution sub item 5</a></h5>
 	<p class="solutions-expand-list-item-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 </li>
 			
@@ -2024,6 +2024,9 @@
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2112,6 +2115,9 @@
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2131,7 +2137,7 @@
           'cache_type' => 0,
           'snippet' => '<!-- Main slider section -->
 <section id="slider" class="slider">
-	<div class="owl-one owl-carousel owl-theme">
+	<div class="owl-one owl-carousel owl-theme" id="owl-one">
 	    [[getImageList?
         &tvname=`main-slider`
         &tpl=`slider-item`
@@ -2147,7 +2153,7 @@
           'static_file' => '',
           'content' => '<!-- Main slider section -->
 <section id="slider" class="slider">
-	<div class="owl-one owl-carousel owl-theme">
+	<div class="owl-one owl-carousel owl-theme" id="owl-one">
 	    [[getImageList?
         &tvname=`main-slider`
         &tpl=`slider-item`
@@ -2158,6 +2164,9 @@
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2214,6 +2223,9 @@
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2318,6 +2330,9 @@
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2380,6 +2395,9 @@
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2446,6 +2464,9 @@
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2652,6 +2673,9 @@
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -3194,6 +3218,9 @@ if (!empty($toPlaceholder)) {
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -4127,6 +4154,9 @@ return $o;',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -5067,6 +5097,9 @@ if (!empty($returnIds)) {
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
